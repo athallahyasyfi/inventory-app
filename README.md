@@ -29,7 +29,7 @@
 InvenTrack is a full-stack web application for managing product inventory. Built as a portfolio project to demonstrate real-world implementation of modern web technologies including authentication, database relations, REST API, and role-based access control.
 
 ![inventrack](./screenshots/dashboard.png)
-![inventrack](./screenshots/mutasistok.png)
+![inventrack](./screenshots/mutasisttok.png)
 ![inventrack](./screenshots/produk.png)
 ![inventrack](./screenshots/stokrendah.png)
 ---
